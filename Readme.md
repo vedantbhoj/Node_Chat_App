@@ -2,7 +2,6 @@
 The TCP Server responds with a message on connecting with the client.
 Used Socket.IO library to implement this application.
 ----
-**Team name: The Original**
 
 ----
 Functionality:
